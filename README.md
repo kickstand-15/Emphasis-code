@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Emphasis-code
+- 👋 Hi, I’m @seeing-eye hampster
 - 👀 I’m interested in figuring things out
 - 🌱 I’m currently learning anything
 - 💞️ I’m looking to collaborate on nothing at the moment
